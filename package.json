@@ -1,0 +1,25 @@
+{
+  "name": "6-3-2020-Homework-Stream-Parse-Zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^4.10.1",
+    "csv-parser": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilcc/6-3-2020-Homework-Stream-Parse-Zip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilcc/6-3-2020-Homework-Stream-Parse-Zip/issues"
+  },
+  "homepage": "https://github.com/wilcc/6-3-2020-Homework-Stream-Parse-Zip#readme"
+}
